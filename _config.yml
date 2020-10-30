@@ -1,3 +1,5 @@
+remote_theme : hydecorp/hydejack
+
 lang:                  en
 title:                 Hydejack
 logo:                  /assets/icons/icon.png
